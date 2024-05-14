@@ -1,0 +1,1 @@
+Drop table if exists public.improvement_detail;

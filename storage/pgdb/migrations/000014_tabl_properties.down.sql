@@ -1,0 +1,1 @@
+DROP TABLE If Exists public.properties;
